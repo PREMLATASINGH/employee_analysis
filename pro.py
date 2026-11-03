@@ -12,3 +12,4 @@ data={
 df=pd.DataFrame(data)
 print(df)
 print(df.head(3))
+print(df.tail(3))
